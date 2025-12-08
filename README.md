@@ -73,3 +73,5 @@ However, renewal should include improvement measures to address **damaged items*
 - Freight pricing lacks transparency across regions and categories.
 
 ---
+Please refer to [Olist Data Dictionary](https://github.com/yaqeen-muneer/OlistShipping/blob/main/Olist%20dictionary.xlsx) we created for more information
+as well as [Shipping Analysis Jupyter Notebook](https://github.com/yaqeen-muneer/OlistShipping/blob/main/Olist_Shipping_Group6.ipynb) for all the analysis steps.
