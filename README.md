@@ -8,7 +8,13 @@ This project evaluates the performance of Olist's shipping partner (2016–2018)
 
 - Yaqeen Muneer  
 - Alya Al-Sharakhat  
-- Maryam Yusuf  
+- Maryam Yusuf
+
+  
+## Dataset
+The analysis is based on the **Brazilian E-Commerce Public Dataset by Olist**, available on Kaggle:  
+👉 [Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 
 ## Objectives
 
