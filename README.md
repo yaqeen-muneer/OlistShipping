@@ -60,7 +60,9 @@ The analysis is based on the **Brazilian E-Commerce Public Dataset by Olist**, a
 
 ## Recommendation
 
-Based on the findings, we recommend a partial renewal of the shipping partnership. While performance was strong in some areas (international speed, early deliveries), there are cost and reliability concerns—especially for long-distance and certain product categories—that warrant diversification or renegotiation.
+We recommend a **full renewal of the shipping partnership**.  
+Performance was strong in key areas such as **international delivery speed** and **early/on‑time shipments**.  
+However, renewal should include improvement measures to address **damaged items** and enhance **delivery date accuracy**, ensuring higher customer satisfaction and reliability.
 
 ---
 
