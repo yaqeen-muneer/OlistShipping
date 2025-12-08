@@ -65,5 +65,3 @@ Based on the findings, we recommend a partial renewal of the shipping partnershi
 - Freight pricing lacks transparency across regions and categories.
 
 ---
-
-## 📚 References
